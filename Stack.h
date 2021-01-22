@@ -1,5 +1,5 @@
-#ifndef STRING_TOKENIZER
-#define STRING_TOKENIZER
+#ifndef STACK
+#define STACK
 #include <iostream>
 using namespace std;
 
